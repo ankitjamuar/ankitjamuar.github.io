@@ -1,0 +1,8 @@
+title: Ankit Sinha
+description: Part time genious, full time screwed up!!
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
